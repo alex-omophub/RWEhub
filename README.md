@@ -80,6 +80,7 @@ Turning raw health data into standardized, analyzable tables.
 | [eyedress02/modern-lakehouse](https://github.com/eyedress02/modern-lakehouse) | Shell | Lakehouse stack with MinIO, MariaDB, Dremio |
 | [ericg1212/healthcare-claims-pipeline](https://github.com/ericg1212/healthcare-claims-pipeline) | Python | HL7 FHIR → OMOP CDM, claims classification, cohort building |
 | [aminyakubu/explorys](https://github.com/aminyakubu/explorys) | R | Pulling cohort demographics from the IBM Explorys database |
+| [OMOPHub/omophub-python](https://github.com/OMOPHub/omophub-python) | Python | Mapping source codes (ICD-10, SNOMED, RxNorm, LOINC) to OMOP standard concepts via API, without a local Athena load |
 
 ### Track 2 — Reproducibility & Study Lifecycle
 Making studies transparent, auditable, and repeatable.

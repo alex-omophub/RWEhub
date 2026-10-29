@@ -34,6 +34,13 @@ R package to quickly pull demographic and clinical characteristics from the IBM
 Explorys database. A concrete example of a source-specific data-access layer.
 <https://github.com/aminyakubu/explorys>
 
+### OMOPHub/omophub-python · Python
+Python SDK for the OMOPHub API, which serves the OHDSI standardized vocabularies
+(SNOMED CT, ICD-10, LOINC, RxNorm and 120+ more). Shows how source codes are
+looked up and mapped to OMOP standard concepts during ETL, without downloading
+and loading Athena locally.
+<https://github.com/OMOPHub/omophub-python>
+
 ---
 
 ## Track 2 — Reproducibility & Study Lifecycle
